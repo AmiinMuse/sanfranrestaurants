@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sanfranrestaurants/static/css/main.60c8a744.css",
+    "main.js": "/sanfranrestaurants/static/js/main.b62467e5.js",
+    "static/js/453.b726c14e.chunk.js": "/sanfranrestaurants/static/js/453.b726c14e.chunk.js",
+    "static/media/homepage_bg2.webp": "/sanfranrestaurants/static/media/homepage_bg2.3910c5382d78978bf4d4.webp",
+    "static/media/logo.webp": "/sanfranrestaurants/static/media/logo.300ce64b553be196d73a.webp",
+    "index.html": "/sanfranrestaurants/index.html",
+    "main.60c8a744.css.map": "/sanfranrestaurants/static/css/main.60c8a744.css.map",
+    "main.b62467e5.js.map": "/sanfranrestaurants/static/js/main.b62467e5.js.map",
+    "453.b726c14e.chunk.js.map": "/sanfranrestaurants/static/js/453.b726c14e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60c8a744.css",
+    "static/js/main.b62467e5.js"
+  ]
+}
